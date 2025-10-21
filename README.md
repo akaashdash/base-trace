@@ -1,5 +1,7 @@
 # Base Trace
 
+Building circuit tracers for common small base models. Focusing on decoder-only embedding models.
+
 
 ## Leaderboards
 
@@ -19,4 +21,4 @@ Best edge device LLM: https://huggingface.co/ibm-granite/granite-4.0-micro-base.
 Best edge device decoder embedder: https://huggingface.co/Qwen/Qwen3-Embedding-0.6B. 
 Best edge device encoder embedder: https://huggingface.co/intfloat/multilingual-e5-large-instruct. 
 
-No good, small, open source, finance specific embedding models or LLMs :(
+No good open source, finance specific embedding models or LLMs :(
